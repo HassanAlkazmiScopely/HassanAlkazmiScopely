@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HassanAlkazmiScopely?cardType=octocat&preferLogin=false)](https://git.io/awesome-stats-card)
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">  </a> </p>
 
 <!--
 **HassanAlkazmiScopely/HassanAlkazmiScopely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
